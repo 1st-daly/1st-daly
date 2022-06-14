@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me: Instagram realdaly_
+- 📫 How to reach me: Instagram @realdaly_
 
 <!---
 realdaly/realdaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
